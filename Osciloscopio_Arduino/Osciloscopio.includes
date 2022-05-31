@@ -1,0 +1,13 @@
+./
+/media/Ext4/Proyectos/MakerSpace_DIY/DIY_Oscilloscope/Osciloscopio/include
+/media/Ext4/Proyectos/MakerSpace_DIY/DIY_Oscilloscope/Osciloscopio/src
+/home/joseolin/.platformio/packages/framework-arduino-avr/cores/arduino
+/home/joseolin/.platformio/packages/framework-arduino-avr/variants/standard
+/home/joseolin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+/home/joseolin/.platformio/packages/framework-arduino-avr/libraries/HID/src
+/home/joseolin/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+/home/joseolin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+/home/joseolin/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+/home/joseolin/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include
+/home/joseolin/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed
+/home/joseolin/.platformio/packages/toolchain-atmelavr/avr/include
